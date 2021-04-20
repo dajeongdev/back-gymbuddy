@@ -191,7 +191,6 @@ title: 제목
 contnets: 내용
 columnWriterId: 컬럼 작성자 아이디
 file: 이미지 파일
-mainYn: 메인 노출 여부(Y or N)
 ```
 * 결과 구조
 ```
@@ -218,7 +217,6 @@ title: 제목
 contnets: 내용
 columnWriterId: 컬럼 작성자 아이디
 file: 이미지 파일
-mainYn: 메인 노출 여부(Y or N)
 *** 수정 시에는 모든 값을 넘길 필요는 없음. 수정할 값만 넘겨도 수정 가능함.
 ```
 * 결과 구조
