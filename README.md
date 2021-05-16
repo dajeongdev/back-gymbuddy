@@ -1,5 +1,5 @@
 # 운동친구
-![gymbuddy_main](https://user-images.githubusercontent.com/61612976/117940547-2122aa00-b344-11eb-9e18-a6bd3d852b12.png)
+![gymbuddy_main](https://user-images.githubusercontent.com/61612976/118395607-3706d680-b686-11eb-8ef1-2576a1ec5f46.png)
 <br />
 <br />
 
@@ -46,59 +46,61 @@
 ## 사용자 페이지
 ### 소개
 *
-![gymbuddy_intro](https://user-images.githubusercontent.com/61612976/117940502-17994200-b344-11eb-9511-30bb5ef8346d.png)
+![gymbuddy_intro1](https://user-images.githubusercontent.com/61612976/118395636-5dc50d00-b686-11eb-87ba-a7ca07c25cde.png)
+![gymbuddy_intro2](https://user-images.githubusercontent.com/61612976/118395608-379f6d00-b686-11eb-858c-0a754dac6804.png)
 <br />
 
 ### 멤버
 *
-![gymbuddy_member](https://user-images.githubusercontent.com/61612976/117940512-19fb9c00-b344-11eb-9fbf-17affafb8505.png)
+![gymbuddy_member](https://user-images.githubusercontent.com/61612976/118395606-366e4000-b686-11eb-8bdf-4133d03cd813.png)
 
 <br />
 
 ### 문의
 * 
-[목록]
-[등록]
+![gymbuddy_question_list](https://user-images.githubusercontent.com/61612976/118395604-35d5a980-b686-11eb-8e9b-913ff5fcce8f.png)
+![gymbuddy_question_insert](https://user-images.githubusercontent.com/61612976/118395603-35d5a980-b686-11eb-9038-0b6bafb161a6.png)
 <br />
 
 ### 자주묻는질문(FAQ)
 * 
-[목록]
+![gymbuddy_faq](https://user-images.githubusercontent.com/61612976/118395597-30785f00-b686-11eb-8987-0599d28190f5.png)
 <br />
 
 ### 굿즈
 * 
-[굿즈 목록]
-![gymbuddy_goods_detail](https://user-images.githubusercontent.com/61612976/118349332-16a62180-b58b-11eb-8ac3-b02ff52fc06a.png)
+![gymbuddy_goods_list](https://user-images.githubusercontent.com/61612976/118395601-353d1300-b686-11eb-8f6b-f40be802ee31.png)
+![gymbuddy_goods_detail](https://user-images.githubusercontent.com/61612976/118395598-32dab900-b686-11eb-9abe-7ea24039af1f.png)
 <br /><br />
 
 
 ## 관리자(Admin) 페이지
 ### 소개
 *
-![gymbuddy_admin_mission1](https://user-images.githubusercontent.com/61612976/118349244-85cf4600-b58a-11eb-9860-d52e964da6e1.png)
-![gymbuddy_admin_mission2](https://user-images.githubusercontent.com/61612976/118349245-8667dc80-b58a-11eb-9ab0-8f1d15217edc.png)
+![gymbuddy_admin_intro1](https://user-images.githubusercontent.com/61612976/118396036-8e0dab00-b688-11eb-92ad-0076c575cde5.png)
+![gymbuddy_admin_intro2](https://user-images.githubusercontent.com/61612976/118396039-90700500-b688-11eb-8375-6ff33137cc46.png)
 <br />
 
 ### 멤버
 *
-![gymbuddy_admin_member](https://user-images.githubusercontent.com/61612976/118349241-8536af80-b58a-11eb-953a-c5b928b2c593.png)
+![gymbuddy_admin_member](https://user-images.githubusercontent.com/61612976/118396040-91089b80-b688-11eb-90b2-9c38c1c3d18d.png)
 <br />
 
 ### 자주묻는질문(FAQ)
 *
-[목록]
-[등록]
+![gymbuddy_admin_faq_list](https://user-images.githubusercontent.com/61612976/118394962-c611ef80-b682-11eb-8bbe-4cbc7591a60b.png)
+![gymbuddy_admin_faq_insert](https://user-images.githubusercontent.com/61612976/118395083-84ce0f80-b683-11eb-9278-55e5107481dd.png)
 <br />
 
 ### 문의
 *
 [목록]
 [상세]
+[검색]
 <br />
 
 ### 굿즈
 *
-![gymbuddy_admin_goods_list](https://user-images.githubusercontent.com/61612976/118349475-dabf8c00-b58b-11eb-92f8-5462dec929f4.png)
-![gymbuddy_admin_goods](https://user-images.githubusercontent.com/61612976/118349240-82d45580-b58a-11eb-8cd2-fdc2544bcf19.png)
+![gymbuddy_admin_goods_list1](https://user-images.githubusercontent.com/61612976/118396042-9239c880-b688-11eb-8f71-d7923f15fc35.png)
+![gymbuddy_admin_goods_insert](https://user-images.githubusercontent.com/61612976/118396533-e5ad1600-b68a-11eb-90f8-15c669399c43.png)
 <br />
