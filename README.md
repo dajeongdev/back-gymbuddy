@@ -61,7 +61,7 @@
 <br />
 
 ### 자주묻는질문(FAQ)
-* 홈페이지 하단의 자주묻는질문 버튼을 통해 계정, 홈페이지 이용 등 관리자가 등록한 자주묻는질문을 확인할 수 있다.
+* 홈페이지 하단 푸터의 자주묻는질문 버튼을 통해 계정, 홈페이지 이용 등 관리자가 등록한 자주묻는질문을 확인할 수 있다.
 ![gymbuddy_faq](https://user-images.githubusercontent.com/61612976/118395597-30785f00-b686-11eb-8987-0599d28190f5.png)
 <br />
 
@@ -85,7 +85,7 @@
 <br />
 
 ### 자주묻는질문(FAQ)
-* 관리자가 홈페이지 이용에 필요한 정보들을 카테고리, 제목, 내용을 포함해 등록할 수 있다.
+* 관리자가 홈페이지 이용 등에 필요한 정보들을 카테고리, 제목, 내용을 포함해 등록할 수 있다.
 ![gymbuddy_admin_faq_list](https://user-images.githubusercontent.com/61612976/118394962-c611ef80-b682-11eb-8bbe-4cbc7591a60b.png)
 ![gymbuddy_admin_faq_insert](https://user-images.githubusercontent.com/61612976/118395083-84ce0f80-b683-11eb-9278-55e5107481dd.png)
 <br />
